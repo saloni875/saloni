@@ -3,8 +3,8 @@ import { Share2, Sparkles } from "lucide-react";
 function Header() {
   const handleShare = async () => {
     const shareData = {
-      title: "LottiesxWorld",
-      text: "Sharing what makes me happy ✨🍍",
+      title: "Saloni | Links",
+      text: "Find me, my work & all the random things I make ✨",
       url: window.location.href,
     };
 
